@@ -1,18 +1,15 @@
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="30px" height="30px">
-  <img src="https://logospng.org/download/javascript/logo-javascript-1024.png" width="30px" height="30px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" width="30px" height="30px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" width="30px" height="30px">
+  
 </div>
 
 ```
 
-nome = "Junior Rodrigues"
+nome = "Kaiky Pires de Souza"
 habilidades = array[
   "Programador Junior",
-  "A.D.S 2019 a 2021",
+  "S.I 2023",
   "Em busca de oportunidade",
-  "Sempre com uma idaia nova"
+
 ]
 
 print("Olá, me chamo" + nome + "!")
@@ -20,8 +17,8 @@ print("• " + habilidades)
 
 ```
 
-<h2>> Olá, me chamo Junior Rodrigues!</h2>
-<h2>> • Programador Junior <br>• A.D.S 2019 a 2021 <br>• Em busca de oportunidade <br>• Sempre com uma idaia nova</h2>
+<h2>> Olá, me chamo Kaiky Pires!</h2>
+<h2>> • Programador Junior <br>• S.I 2023 <br>• Em busca de oportunidade <br>• </h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JuniorRodrigu&show_icons=true&theme=radical&locale=pt-br" alt="Estatísticas do GitHub" height="180em">
