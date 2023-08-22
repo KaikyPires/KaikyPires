@@ -18,7 +18,4 @@ Bachelor's Degree in Information Systems (expected completion: [12, 2026])
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiky-pires-a63985265/) [!
 
 # 📊 GitHub Stats:
-`shadow_green` ![shadow_green][shadow_green]
-[shadow_green]: https://github-readme-stats.vercel.app/api?KaikyPires=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_green
-[shadow_green_repo]: https://github-readme-stats.vercel.app/api/pin/?KaikyPires=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=shadow_green
-https://github.com/anuraghazra/github-readme-stats/edit/master/themes/index.js
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?KaikyPires=anuraghazra&show_icons=true&theme=transparent)
