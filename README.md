@@ -18,8 +18,4 @@ Bachelor's Degree in Information Systems (expected completion: [12, 2026])
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiky-pires-a63985265/) [!
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=KaikyPires&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lauragrassig&theme=neon&whitee_border=false"  width="400px" />
-
-
-
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=KaikyPires&theme=neon&white_border=false&include_all_commits=false&count_private=false&layout=compact)
+ `shadow_green` ![shadow_green][shadow_green] |
