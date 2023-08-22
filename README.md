@@ -1,17 +1,13 @@
 # 👋 Hi there
 
-My name is Kaiky Pires, and I'm studying Information Systems in college., I've had the opportunity to work on various exciting projects and explore different technologies.
+My name is Kaiky Pires, and I'm studying Information Systems in college.
+'m a Junior Developer motivated to learn, I'm looking to secure a dynamic and challenging position in the area of ​​software development. With a strong foundation in coding principles, I am dedicated to contributing positively to a winning team while further improving my skills and knowledge.
 
 
 # 🚀 Expertise
 
-Passionate about crafting interactive and intuitive user experiences, I specialize in front-end web development, combining modern frameworks with best practice design patterns. With almost 7 years dedicated to honing my skills in front-end technologies, I've led teams, designed system guidelines, and upheld the highest standards in web performance and SEO.
-
-In my professional journey, I've proudly served as a Front-end Technical Lead as well, a role where my technical expertise met the challenges of team management. Beyond crafting top-tier user interfaces, I embraced the responsibilities of leadership, guiding my team with strategic oversight, and ensuring projects were executed efficiently.
-
-In addition to my professional pursuits, I've embraced the role of a "content creator" within the technology sphere. My approach is distinct; I aim to offer a fresh perspective on tech, blending insights with a dash of humor. 
-
-Outside of the professional environment, I nurture a unique passion: creating "art" using exclusively CSS. This activity not only sharpens my technical prowess but also allows me to blend programming and creativity in a uniquely captivating way.
+Bachelor's Degree in Information Systems (expected completion: [12, 2026])
+[Instituto Federal de Minas Gerais-IFMG], [Ouro Branco, Minas Gerais]
 
 
 # 💻 Tech Stack
