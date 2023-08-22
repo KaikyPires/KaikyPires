@@ -12,7 +12,8 @@ Bachelor's Degree in Information Systems (expected completion: [12, 2026])
 
 
 # 💻 Tech Stack
-
+<p align="center"><code><a href="https://www.java.com/pt-BR/download/help/index.html" target="_blank"><img
+height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code></p>
 
 
 # 🌐 Socials:
