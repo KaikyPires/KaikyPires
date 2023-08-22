@@ -10,6 +10,7 @@ Bachelor's Degree in Information Systems (expected completion: [12, 2026])
 [Instituto Federal de Minas Gerais-IFMG], [Ouro Branco, Minas Gerais]
 
 
+
 # 💻 Tech Stack
 
 https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg
