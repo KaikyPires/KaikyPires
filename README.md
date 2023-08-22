@@ -12,6 +12,7 @@ Bachelor's Degree in Information Systems (expected completion: [12, 2026])
 
 # 💻 Tech Stack
 
+https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() 
