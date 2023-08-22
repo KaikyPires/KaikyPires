@@ -13,7 +13,7 @@ Bachelor's Degree in Information Systems (expected completion: [12, 2026])
 
 # 💻 Tech Stack
 
-<i class="fa-brands fa-java"></i>
+https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiky-pires-a63985265/) 
