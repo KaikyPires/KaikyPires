@@ -1,7 +1,7 @@
 # 👋 Hi there
 
 My name is Kaiky Pires, and I'm studying Information Systems in college.
-'m a Junior Developer motivated to learn, I'm looking to secure a dynamic and challenging position in the area of ​​software development. With a strong foundation in coding principles, I am dedicated to contributing positively to a winning team while further improving my skills and knowledge.
+I'm a Junior Developer motivated to learn, I'm looking to secure a dynamic and challenging position in the area of ​​software development. With a strong foundation in coding principles, I am dedicated to contributing positively to a winning team while further improving my skills and knowledge.
 
 
 # 🚀 Expertise
