@@ -9,7 +9,6 @@
 🚀 Seeking a dynamic and challenging position in the field.
 
 ## Tech Stack
- ![Java](https://www.vectorlogo.zone/logos/java/java-horizontal.svg)
    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
 ## Socials
