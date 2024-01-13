@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Kaiky Pires!
+## 👋 Hi there, I'm Kaiky Pires!
 
 ### 🎓 Information Systems student.
 
