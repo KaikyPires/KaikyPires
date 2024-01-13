@@ -11,8 +11,6 @@
 ## Tech Stack
  ![Java](https://www.vectorlogo.zone/logos/java/java-horizontal.svg)
 
-- Programming Language: Java
-
 ## Socials
 
 - [LinkedIn](https://www.linkedin.com/in/kaiky-pires-a63985265/)
