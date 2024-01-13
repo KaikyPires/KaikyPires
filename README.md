@@ -1,23 +1,24 @@
-# 👋 Hi there
+# 👋 Olá, eu sou Kaiky Pires!
 
-My name is Kaiky Pires, and I'm studying Information Systems in college.
-I'm a Junior Developer motivated to learn, I'm looking to secure a dynamic and challenging position in the area of ​​software development. With a strong foundation in coding principles, I am dedicated to contributing positively to a winning team while further improving my skills and knowledge.
+🎓 Estudante de Sistemas de Informação no Instituto Federal de Minas Gerais-IFMG, localizado em Ouro Branco, Minas Gerais.
 
+🚀 Buscando uma posição dinâmica e desafiadora na área de desenvolvimento de software.
 
-# 🚀 Expertise
+## Experiência
 
-Bachelor's Degree in Information Systems (expected completion: [12, 2026])
-[Instituto Federal de Minas Gerais-IFMG], [Ouro Branco, Minas Gerais]
+- **Bacharelado em Sistemas de Informação**
+  - Previsão de conclusão: Dezembro de 2026
+  - Instituto Federal de Minas Gerais-IFMG, Ouro Branco, Minas Gerais
 
+## Stack Tecnológica
 
+- Linguagem de Programação: Java
+  ![Java](https://www.vectorlogo.zone/logos/java/java-horizontal.svg)
 
-# 💻 Tech Stack
-<p><code><a href="https://www.java.com/pt-BR/download/help/index.html" target="_blank"><img
-height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code></p>
+## Redes Sociais
 
+- [LinkedIn](https://www.linkedin.com/in/kaiky-pires-a63985265/)
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiky-pires-a63985265/) 
+## GitHub Stats
 
-# 📊 GitHub Stats:
-![KaikyPires GitHub stats](https://github-readme-stats.vercel.app/api?username=KaikyPires&show_icons=true&theme=transparent)
+![Estatísticas do GitHub de KaikyPires](https://github-readme-stats.vercel.app/api?username=KaikyPires&show_icons=true&theme=transparent)
