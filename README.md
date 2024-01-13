@@ -2,7 +2,7 @@
 
 🎓 Estudante de Sistemas de Informação no Instituto Federal de Minas Gerais-IFMG, localizado em Ouro Branco, Minas Gerais.
 
-🚀 Buscando uma posição dinâmica e desafiadora na área de desenvolvimento de software.
+🚀 Buscando uma posição dinâmica e desafiadora na área.
 
 ## Experiência
 
@@ -11,9 +11,9 @@
   - Instituto Federal de Minas Gerais-IFMG, Ouro Branco, Minas Gerais
 
 ## Stack Tecnológica
+ ![Java](https://www.vectorlogo.zone/logos/java/java-horizontal.svg)
 
 - Linguagem de Programação: Java
-  ![Java](https://www.vectorlogo.zone/logos/java/java-horizontal.svg)
 
 ## Redes Sociais
 
