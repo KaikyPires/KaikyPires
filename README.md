@@ -1,22 +1,22 @@
-# 👋 Olá, eu sou Kaiky Pires!
+# 👋 Hi there, I'm Kaiky Pires!
 
-🎓 Estudante de Sistemas de Informação.
+🎓 Information Systems student.
 
-**Bacharelado em Sistemas de Informação**
-  - Previsão de conclusão: Dezembro de 2026
-  - Instituto Federal de Minas Gerais-IFMG, Ouro Branco, Minas Gerais
+**Bachelor's Degree in Information Systems**
+  - Expected Graduation: December 2026
+  - Federal Institute of Minas Gerais-IFMG, Ouro Branco, Minas Gerais
 
-🚀 Buscando uma posição dinâmica e desafiadora na área.
+🚀 Seeking a dynamic and challenging position in the field.
 
-## Stack Tecnológica
+## Tech Stack
  ![Java](https://www.vectorlogo.zone/logos/java/java-horizontal.svg)
 
-- Linguagem de Programação: Java
+- Programming Language: Java
 
-## Redes Sociais
+## Socials
 
 - [LinkedIn](https://www.linkedin.com/in/kaiky-pires-a63985265/)
 
 ## GitHub Stats
 
-![Estatísticas do GitHub de KaikyPires](https://github-readme-stats.vercel.app/api?username=KaikyPires&show_icons=true&theme=transparent)
+![KaikyPires GitHub stats](https://github-readme-stats.vercel.app/api?username=KaikyPires&show_icons=true&theme=transparent)
