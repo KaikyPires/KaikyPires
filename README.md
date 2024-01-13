@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Kaiky Pires!
 
-🎓 Information Systems student.
+### 🎓 Information Systems student.
 
 **Bachelor's Degree in Information Systems**
   - Expected Graduation: December 2026
