@@ -9,9 +9,10 @@
 🚀 Seeking a dynamic and challenging position in the field.
 
 ## Tech Stack
-   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-   <img align="center" height="30" width="40" src="https://img.icons8.com/?size=100&id=vAJD4bPPf091&format=png&color=000000" />
-
+<p align="center">
+    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img height="30" width="40" src="https://img.icons8.com/?size=100&id=vAJD4bPPf091&format=png&color=000000" />
+</p>
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiky-pires-a63985265/) 
