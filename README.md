@@ -4,7 +4,7 @@
 
 **Bachelor's Degree in Information Systems**
   - Expected Graduation: December 2026
-  - Federal Institute of Minas Gerais-IFMG, Ouro Branco, Minas Gerais
+  - Federal Institute of Minas Gerais - IFMG, Ouro Branco, Minas Gerais
 
 🚀 Seeking a dynamic and challenging position in the field.
 
