@@ -15,8 +15,10 @@
 </p>
 
 ## Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiky-pires-a63985265/) 
+<p align="left">
+  <a href="https://www.linkedin.com/in/kaiky-pires/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/></a>
+  <a href="mailto:kaiky.pires@yahoo.com.br"><img src="https://img.shields.io/badge/yahoo-F14336?style=for-the-badge&logo=gmail&logoColor=white" alt="alsiam"/>
+</p>
 
 ## GitHub Stats
 
