@@ -11,6 +11,8 @@
 ## Tech Stack
 <p>
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img height="40" width="40" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
+    <img height="40" width="40" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" />
     <img height="40" width="40" src="https://img.icons8.com/?size=100&id=uHZV38hOzCFA&format=png&color=000000" />
 </p>
 
